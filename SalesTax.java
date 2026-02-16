@@ -1,4 +1,4 @@
-public class Lab_04_01_SalesTax{
+public class SalesTax{
     public static void main(String[] args){
 
         double purchasePrice = 80.00;
