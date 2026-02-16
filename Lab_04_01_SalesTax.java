@@ -7,6 +7,6 @@ public class Lab_04_01_SalesTax{
 
         System.out.println("The purchase price is: " + purchasePrice);
         System.out.println("The sales tax at 5% is: " + salesTax);
-    }
+    }j
 }
 
